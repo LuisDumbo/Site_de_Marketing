@@ -1,0 +1,30 @@
+.navbar-brand{
+    font-size: 35px;
+    font-weight: bold;
+    color: #ECF0F1 ;
+
+}
+
+.navbar-expand-lg{
+    background-color: #9b2226  !important;
+}
+.navbar-brand:hover{
+    color: #ECF0F1 ;
+}
+.nav-link{
+    color: #ECF0F1 !important ;
+    font-size: 20px;
+    font-weight: bold;
+    transition: 0.3s;
+    width: auto !important;
+   
+}
+.nav-link:hover{
+    color: #ffb703 !important;
+}
+.navbar-nav{
+    margin-left: 20% !important;
+}
+.navbar-brand{
+    margin-left: 5% !important;
+}
